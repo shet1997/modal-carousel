@@ -1,0 +1,40 @@
+ {
+    "carouselItems": [
+        {
+            "image": "https://via.placeholder.com/600/92c952",
+            "name": "Subject1",
+            "redirect": "https://jsonplaceholder.typicode.com/",
+            "key": "subject1"
+        },
+        {
+            "image": "https://via.placeholder.com/600/771796",
+            "name": "Subject2",
+            "redirect": "https://jsonplaceholder.typicode.com/",
+            "key": "subject2"
+        },
+        {
+            "image": "https://via.placeholder.com/600/24f355",
+            "name": "Subject3",
+            "redirect": "https://jsonplaceholder.typicode.com/",
+            "key": "subject3"
+        },
+        {
+            "image": "https://via.placeholder.com/600/d32776",
+            "name": "Subject4",
+            "redirect": "https://jsonplaceholder.typicode.com/",
+            "key": "subject4"
+        },
+        {
+            "image": "https://via.placeholder.com/600/f66b97",
+            "name": "Subject5",
+            "redirect": "https://jsonplaceholder.typicode.com/",
+            "key": "subject5"
+        },
+        {
+            "image": "https://via.placeholder.com/600/56a8c2",
+            "name": "Subject6",
+            "redirect": "https://jsonplaceholder.typicode.com/",
+            "key": "subject6"
+        }
+    ]
+ }
